@@ -1,0 +1,11 @@
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\bin\Debug\WPF 5 Z1.exe.config
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\bin\Debug\WPF 5 Z1.exe
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\bin\Debug\WPF 5 Z1.pdb
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF 5 Z1.csproj.AssemblyReference.cache
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF 5 Z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF_5_Z1.Form1.resources
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF_5_Z1.Properties.Resources.resources
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF 5 Z1.csproj.GenerateResource.cache
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF 5 Z1.csproj.CoreCompileInputs.cache
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF 5 Z1.exe
+C:\Users\t.student\source\repos\WPF 5 Z1\WPF 5 Z1\obj\Debug\WPF 5 Z1.pdb
